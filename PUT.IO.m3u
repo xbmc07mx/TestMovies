@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="582" tvg-name="MEGA ES" tvg-logo="http://img02.lavanguardia.com/2015/05/28/Logotipo-de-Mega-el-nuevo-cana_54431936571_54028874188_960_639.jpg" group-title="others",MEGA ES
+#EXTINF:0, tvg-id="582" tvg-name="MEGA ES" tvg-logo="http://img02.lavanguardia.com/2015/05/28/Logotipo-de-Mega-el-nuevo-cana_54431936571_54028874188_960_639.jpg" group-title="others",MEGA ES
 http://j.gs/11042797/mega-es-s-p-box-m3u8
 
 
