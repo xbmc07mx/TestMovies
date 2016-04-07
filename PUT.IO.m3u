@@ -1,6 +1,7 @@
 #EXTM3U
+#EXTINF:0 channel-id="34" epg-id="124" tvg-name="5 GSM" pay="1" channel-id="TEST STREAM" tvg-logo="http://http://www.imdb.com/media/rm3288964352/tt0414513?ref_=tt_ov_i" groups="<common group name>|<group name>" url-epg="<url to epg file in .xml format (if any) for this stream>" tvg-shift="+1",test
 #EXTINF:0, Por la libre 
-httphost://$http-raw=https://www.youtube.com/watch?v=L9WaWsnSohM$http-refferer=http://www.imdb.com/media/rm3288964352/tt0414513?ref_=tt_ov_i
+https://www.youtube.com/watch?v=L9WaWsnSohM
 #EXTINF:0, 7 Dias (Jaime Camil) 2004
 https://www.youtube.com/watch?v=jNj0dcctLQE
 #EXTINF:0,Blow 2001 
