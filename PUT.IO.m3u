@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0, EPOCA DE ORO
+plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=yZnOFQ1AZV0&list=PLYbCuwhxtBtPcTjPvTBVwpQ8YiYB6SkRq
+
 #EXTINF:0, POR LA LIBRE
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L9WaWsnSohM
 
