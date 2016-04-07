@@ -31,11 +31,11 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=k-EAww
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jcf3_4iEDDI
 #EXTINF:0, Romeo y Julieta
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HYTGYM01fh8
-#EXTINF:0,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-#EXTINF:0,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-#EXTINF:0,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-#EXTINF:0,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, El Padrecito
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=vCMtucz_6YA
+#EXTINF:0, Si yo Fuera Diputado
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ME_78vneu7M
+#EXTINF:0, El Maestro
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4EuKqcrpA3w
+#EXTINF:0, Aguila o Sol
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VAKdJaR8Mds
