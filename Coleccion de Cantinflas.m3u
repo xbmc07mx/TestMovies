@@ -1,9 +1,5 @@
 #EXTM3U
-
-EXTINF:0, CANTINFLAS vs PEDRO INFANTE
+#EXTINF:0,Cantinflas vs Pedro Infante
 plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=ke4i4hqCMe8
-
-EXTINF:0, MARIO MORENO "CANTINFLAS" (1992) SU ULTIMA ENTREVISTA POR TELEVISION 
+#EXTINF:0,MARIO MORENO "CANTINFLAS" (1992) SU ULTIMA ENTREVISTA POR TELEVISION
 plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=MH0hxwpk-vA
-
-
