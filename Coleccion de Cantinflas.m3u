@@ -23,14 +23,14 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PtKqCO
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zTr0MwA8K5c
 #EXTINF:0, Ahi esta el detalle
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MZyiGt6GE5I
-#EXTINF:0,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-#EXTINF:0,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-#EXTINF:0,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-#EXTINF:0,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, El Gran Hotel
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cIj33GTRJ7Y
+#EXTINF:0, El Barrendero
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=k-EAwwy36Ow
+#EXTINF:0, El Gendarme desconocido
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jcf3_4iEDDI
+#EXTINF:0, Romeo y Julieta
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HYTGYM01fh8
 #EXTINF:0,
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 #EXTINF:0,
