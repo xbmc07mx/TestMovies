@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0, Por la libre 
-https://www.youtube.com/watch?v=L9WaWsnSohM http://ia.media-imdb.com/images/M/MV5BMTQ4MjkxMTc3M15BMl5BanBnXkFtZTcwODc2NjEzMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg
+httphost://$http-raw=https://www.youtube.com/watch?v=L9WaWsnSohM$http-refferer=http://www.imdb.com/media/rm3288964352/tt0414513?ref_=tt_ov_i
 #EXTINF:0, 7 Dias (Jaime Camil) 2004
 https://www.youtube.com/watch?v=jNj0dcctLQE
 #EXTINF:0,Blow 2001 
