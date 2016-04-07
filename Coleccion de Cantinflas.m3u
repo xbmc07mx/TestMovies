@@ -1,4 +1,15 @@
 #EXTM3U
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+
 #EXTINF:0, Cantinflas vs Pedro Infante
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ke4i4hqCMe8
 #EXTINF:0, MARIO MORENO "CANTINFLAS" (1992) SU ULTIMA ENTREVISTA POR TELEVISION
@@ -26,7 +37,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MZyiGt
 #EXTINF:0, El Gran Hotel
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=cIj33GTRJ7Y
 #EXTINF:0, El Barrendero
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=k-EAwwy36Ow
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ukj98d4UscY
 #EXTINF:0, El Gendarme desconocido
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=jcf3_4iEDDI
 #EXTINF:0, Romeo y Julieta
