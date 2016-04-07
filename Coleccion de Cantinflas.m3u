@@ -1,5 +1,27 @@
 #EXTM3U
-#EXTINF:0,Cantinflas vs Pedro Infante
+#EXTINF:0, Cantinflas vs Pedro Infante
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ke4i4hqCMe8
-#EXTINF:0,MARIO MORENO "CANTINFLAS" (1992) SU ULTIMA ENTREVISTA POR TELEVISION
+#EXTINF:0, MARIO MORENO "CANTINFLAS" (1992) SU ULTIMA ENTREVISTA POR TELEVISION
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MH0hxwpk-vA
+#EXTINF:0, Si Yo Fuera Diputado
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ME_78vneu7M
+#EXTINF:0, El Circo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VcNGz-peDWo
+#EXTINF:0, Un dia con el Diablo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=5xyYX82EglY
+#EXTINF:0, El Siete Machos
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b4UiuPbkhVg
+#EXTINF:0, El Bombero Atomico
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K_qPDuXV26Y
+#EXTINF:0, Sube y Baja
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=G_omMNkKvVg
+#EXTINF:0,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
