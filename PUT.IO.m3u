@@ -1,11 +1,6 @@
 #EXTM3U
+#EXTINF:0 [COLOR RED] ESTA LISTA SERA ACTUALIZADA POR SEMANA [/COLOR] 
 
-#EXTINF:0, EPOCA DE ORO
-plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=PLYbCuwhxtBtPcTjPvTBVwpQ8YiYB6SkRq
-
-
-#EXTINF:0, POR LA LIBRE
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=L9WaWsnSohM
 
 #EXTINF:0, POR LA LIBRE tvg-id="582" tvg-name="POR LA LIBRE" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTIwMTU5NzA0MV5BMl5BanBnXkFtZTcwMzA2OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="others",POR LA LIBRE
 https://www.youtube.com/watch?v=L9WaWsnSohM
