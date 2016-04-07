@@ -15,6 +15,20 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=b4UiuP
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=K_qPDuXV26Y
 #EXTINF:0, Sube y Baja
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=G_omMNkKvVg
+#EXTINF:0, El Boxeador
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MrXUkcHJ2pI
+#EXTINF:0, El Bolero de Raquel
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=PtKqCObSw7Y
+#EXTINF:0, Abajo el telon
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=zTr0MwA8K5c
+#EXTINF:0, Ahi esta el detalle
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=MZyiGt6GE5I
+#EXTINF:0,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 #EXTINF:0,
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 #EXTINF:0,
