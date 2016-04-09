@@ -6,8 +6,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 #EXTINF:0, 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, Gaslight (1944)
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=SPcYkxmhGs0&nohtml5=False
 
 
 #EXTINF:0, Cantinflas vs Pedro Infante
