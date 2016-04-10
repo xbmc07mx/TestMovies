@@ -1,16 +1,37 @@
 #EXTM3U
-#EXTINF:0,PEDRO INFANTE: LOS TRES GARCIA 
-https://www.youtube.com/watch?v=WgNq_FhBXMk
-#EXTINF:0,PEDRO INFANTE: LOS TRES HUASTECOS
-https://www.youtube.com/watch?v=XQRkj0GqspA
-#EXTINF:0,PEDRO INFANTE: ESCUELA DE VAGABUNDOS
-https://www.youtube.com/watch?v=-cOmZ8A96B4
-#EXTINF:0,PEDRO INFANTE: EL GAVILAN POLLERO
-https://www.youtube.com/watch?v=yFPfisT6vkg
-#EXTINF:0,PEDRO INFANTE: AHI VIENE MARTIN CORONA
-https://www.youtube.com/watch?v=U4QbPoT8ZIQ
-#EXTINF:0,PEDRO INFANTE: LOS GAVILANES
-https://www.youtube.com/watch?v=_vCdFmqzZwM
-#EXTINF:0,PEDRO INFANTE: DICEN QUE SOY MUJERIEGO
-https://www.youtube.com/watch?v=8SXBlvxXNu4
+#EXTM3U
+
+#EXTINF:0, Los Tres Garcia
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WgNq_FhBXMk
+#EXTM3U
+
+#EXTINF:0, LOS TRES HUASTECOS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=XQRkj0GqspA
+#EXTM3U
+
+#EXTINF:0, ESCUELA DE VAGABUNDOS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-cOmZ8A96B4
+#EXTM3U
+
+#EXTINF:0, EL GAVILAN POLLERO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=yFPfisT6vkg
+#EXTM3U
+
+#EXTINF:0, AHI VIENE MARTIN CORONA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U4QbPoT8ZIQ
+#EXTM3U
+
+#EXTINF:0, LOS GAVILANES
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_vCdFmqzZwM
+#EXTM3U
+
+#EXTINF:0, DICEN QUE SOY MUJERIEGO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8SXBlvxXNu4
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
 
