@@ -31,7 +31,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-5hCez
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ax3yXfFytB4&nohtml5=False
 
 #EXTINF:0, EL PENON DE LAS ANIMAS
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ax3yXfFytB4&nohtml5=False
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZhPVsp025UY&nohtml5=False
 
 #EXTINF:0, HISTORIA DE UN GRAN AMOR
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZmtowSSdUgU&nohtml5=False
