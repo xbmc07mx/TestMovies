@@ -1,5 +1,30 @@
 #EXTM3U
 
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+
 #EXTINF:0, AGARRANDO PAREJO
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=omQ5YNeE7aY&nohtml5=False
 
@@ -24,11 +49,11 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-5hCez
 #EXTINF:0, DONA MARIQUITA DE MI CORAZON
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ax3yXfFytB4&nohtml5=False
 
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, EL PENON DE LAS ANIMAS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ax3yXfFytB4&nohtml5=False
 
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, HISTORIA DE UN GRAN AMOR
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZmtowSSdUgU&nohtml5=False
 
 #EXTINF:0, UN GALLO EN CORRAL AJENO
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fmSKvRJRkSk
