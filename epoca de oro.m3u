@@ -6,25 +6,6 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZmtowS
 #EXTINF:0, EL PENON DE LAS ANIMAS
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ZhPVsp025UY&nohtml5=False
 
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
-
 #EXTINF:0, AGARRANDO PAREJO
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=omQ5YNeE7aY&nohtml5=False
 
