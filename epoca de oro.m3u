@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, ME HE DE COMER ESA TUNA 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=U7cIQ3pBCYg&nohtml5=False
 
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, UNA CARTA DE AMOR
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=IRh9UTEW9RM&nohtml5=False
 
 #EXTINF:0, AGARRANDO PAREJO
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=omQ5YNeE7aY&nohtml5=False
