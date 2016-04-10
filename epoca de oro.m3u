@@ -1,5 +1,46 @@
 #EXTM3U
-#EXTM3U
+
+#EXTINF:0, AGARRANDO PAREJO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=omQ5YNeE7aY&nohtml5=False
+
+#EXTINF:0, EN CADA FERIA UN AMOR
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=xCdSRBC1cIY&nohtml5=False
+
+#EXTINF:0, AL SON DE LA MARIMBA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=albDEpgr4Ws&nohtml5=False
+
+#EXTINF:0, MIS HIJOS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8XI6itNRiDU&nohtml5=False
+
+#EXTINF:0, CUANDO LOS PADRES SE QUEDAN SOLOS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=2s8FbLs7Ybo&nohtml5=False
+
+#EXTINF:0, GUITARRAS LLOEREN GUITARRAS
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fCeTm_osuHo&nohtml5=False
+
+#EXTINF:0, MI ADORADA CLEMENTINA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=-5hCezwaTsw&nohtml5=False
+
+#EXTINF:0, DONA MARIQUITA DE MI CORAZON
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=Ax3yXfFytB4&nohtml5=False
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+
+#EXTINF:0, UN GALLO EN CORRAL AJENO
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=fmSKvRJRkSk
+
+#EXTINF:0, YO NO ME CASO COMPADRE
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=3aj4oKy1aIk&nohtml5=False
+
+#EXTINF:0, QUE TE HA DADO ESA MUJER
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=EbwEd3WEqxM&nohtml5=False
+
+#EXTINF:0, LADRON QUE ROBA LADRON
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=NWnNSNSAv3k&nohtml5=False
 
 #EXTINF:0, Los Tres Garcia
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=WgNq_FhBXMk
