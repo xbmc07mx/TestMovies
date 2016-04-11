@@ -8,7 +8,9 @@ http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 #EXTINF:0, FOX SPORTS ESP
 http://latino-webtv.tk/master.m3u8?token=U2FsdGVkX1%2B5tmI9%2BQOmYJRj1nsfQqnQcKi5K6xJm5uSJmCWSIfX00P55IQ68n4c483AVWLfQRD13qfUS8GLpg%3D%3D|User-Agent=iPad&Referer=http://latino-webtv.com/player/jwplayer.flash.swf
 
-#EXTINF:0,
+#EXTINF:0, BULLS VS CAVALIERS
+http://cdn29.my.mail.ru/hv/58082145.mp4?sign=73e1326d6c6074dfbba5709ad4760abfe27234f6&slave[]=s%3Ahttp%3A%2F%2F127.0.0.1%3A5010%2F58082145-hv.mp4&p=f&expire_at=1460376000&touch=1460118472&reg=200&region=200|Cookie=video_key=11c5b2d67663245faef60326aa95a9eb9b9583eb
+
 #EXTINF:0,
 
 #EXTINF:0, DAEADPOOL HD (2016)
