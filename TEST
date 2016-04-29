@@ -126,5 +126,7 @@ http://127.0.0.1:55333/use_proxy_for_chunks=None&maxbitrate=&url=http%3A%2F%2Fnl
 #EXTINF:0,
 #EXTINF:-1,
 #EXTINF:0,
-#EXTINF:-1,
+#EXTINF:-1, ESPN LatinoAmerica
+http://31.220.40.116:80/LiveEdge/ESPNLA/chunklist_w631572101_b1000000.m3u8?securehash=B5cp3XG7gIeWPrOCEpUHuBqLPYmhVuaxrnfpsoVf4Q8%3D&securestarttime=1461954085&secureendtime=1461961285&secureuserid=5dbdd560d40b1160d3c623ec64052ed5
+
 
