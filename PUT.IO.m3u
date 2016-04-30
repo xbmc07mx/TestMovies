@@ -1,55 +1,20 @@
 #EXTM3U
-#EXTINF:0 [COLOR RED] ESTA LISTA SERA ACTUALIZADA POR SEMANA [/COLOR] 
-
-
-#EXTINF:0, LEGO SCOOBYDOO HAUNTED HOLLYWOOD
-https://r5---sn-q4f7sn7s.googlevideo.com/videoplayback?requiressl=yes&id=d64481742d271942&itag=22&source=webdrive&app=texmex&ip=70.124.104.209&ipbits=32&expire=1461910228&sparams=expire,id,ip,ipbits,itag,mm,mn,ms,mv,nh,pl,requiressl,source&signature=6ED507DE27A5C607D90BD5C28641B427FBCC657C.43109614B5483960F3B6E358C41C127C61869B18&key=cms1&pl=16&title=videoplayback&cms_redirect=yes&mm=31&mn=sn-q4f7sn7s&ms=au&mt=1461897241&mv=m&nh=IgpwcjA0LmRmdzA2KgkxMjcuMC4wLjE
-#EXTINF:0, POR LA LIBRE tvg-id="582" tvg-name="POR LA LIBRE" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTIwMTU5NzA0MV5BMl5BanBnXkFtZTcwMzA2OTQyMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="others",POR LA LIBRE
-https://www.youtube.com/watch?v=L9WaWsnSohM
-#EXTINF:0, 7 DIAS tvg-id="582" tvg-name="7 DIAS" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTQ4MjkxMTc3M15BMl5BanBnXkFtZTcwODc2NjEzMQ@@._V1_UY268_CR3,0,182,268_AL_.jpg" group-title="others",7 DIAS 
-https://www.youtube.com/watch?v=jNj0dcctLQE
-#EXTINF:0,Blow 2001 tvg-id="583" tvg-name="Blow 2001" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMTQ5ODQwNzIxNV5BMl5BanBnXkFtZTYwNzAyMDE3._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="other",Blow 2001      
-http://bit.do/blow2001
-#EXTINF:0, Ant Man 2015 tvg-id="582" tvg-name="Ant Man 2015" tvg-logo="http://ia.media-imdb.com/images/M/MV5BMjM2NTQ5Mzc2M15BMl5BanBnXkFtZTgwNTcxMDI2NTE@._V1_SX214_AL_.jpg" group-title="other",Ant Man 2015
-https://cha3.put.io/download/392110490?tunnel=1&storage=s01&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgVlSgmqhbmZ9nXWVVVl%2BJmaNiYF5VYFRYZVVjZmFhXFZiWlZpVmVkZWVbjJmJ
-#EXTINF:0,Black Mass 2015
-https://cha3.put.io/download/385421077?tunnel=1&storage=s10&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlhVVSgmqhbmZ9nXWVVVl%2BJmaNhYl9VYFRYZFdjYGJgXFZiWVhjV2RlaGlbjJmJ
-#EXTINF:0,Daddys Home 2015
-https://cha2.put.io/download/392625094.mp4?tunnel=1&storage=s09&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgXlSgmqhbmZ9nXWVVVl%2BJmaNpaFxWX1dbYlRpYWdfXVhlV1tkXGpdaV6Tj5Q%3D
-#EXTINF:0,Hotel Transylvania 2 2015
-https://cha2.put.io/download/385309443?tunnel=1&storage=s13&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlhWFSgmqhbmZ9nXWVVVl%2BJmaNhYmBVYFRYY11jYGNmXFZiWF5jWGpiYGlbjJmJ
-#EXTINF:0,Downfall 2004
-https://cha2.put.io/download/392107975.mp4?tunnel=1&storage=s13&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlhWFSgmqhbmZ9nXWVVVl%2BJmaNhYmBVYFRYZFxjXWZjXFZiWV1gW2dlZGdbjJmJ
-#EXTINF:0,Forsaken 2015
-https://cha3.put.io/download/389762240.mp4?tunnel=1&storage=s01&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgVlSgmqhbmZ9nXWVVVl%2BJmaNiYF9VYFRYZF1jZWZmXFZiWV5oW2phZ2dbjJmJ
-#EXTINF:0,In The Heart Of The Sea
-https://cha3.put.io/download/389762060?tunnel=1&storage=s13&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlhWFSgmqhbmZ9nXWVVVl%2BJmaNhYmFVYFRYZF5jYWBmXFZiWV9kVWpdYGRbjJmJ
-#EXTINF:0,Selfless 2015
-https://cha3.put.io/download/390073820.mp4?tunnel=1&storage=s08&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgXVSgmqhbmZ9nXWVVVl%2BJmaNhYWRVYFRYY1djY2llXFZiWFhmXmllYmFbjJmJ
-#EXTINF:0,The Boy Next Door 2015
-https://cha2.put.io/download/392598005?tunnel=1&storage=s03&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgWFSgmqhbmZ9nXWVVVl%2BJmaNhYGFVYFRYYFxjY2dgXFZiVV1mXGRiZWBbjJmJ
-#EXTINF:0,The Equalizer 2014
-https://cha3.put.io/download/392625889.mp4?tunnel=1&storage=s13&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlhWFSgmqhbmZ9nXWVVVl%2BJmaNhYmFVYFRYZVdjZWJhXFZiWlhoV2VhYmdbjJmJ
-#EXTINF:0,The Forest 2016
-https://cha2.put.io/download/382368519.mp4?tunnel=1&pcache=1&token=18f6bce4b86911e5ade90a51cd8fa0d3&storage=s05&u=mJmonWpfXJlgWlSgmqhbmZ9nXWVVVl%2BJmaNhYGNVYFRYZFtjYmFkXFZiWVxlVmhiZmFbjJmJ
-#EXTINF:0,The Conjouring 2013
-https://cha2.put.io/download/392626422?tunnel=1&storage=s05&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgWlSgmqhbmZ9nXWVVVl%2BJmaNhYGNVYFRWaVdjZmRiXFZgXlhpWWZfZWVbjJmJ
-#EXTINF:0,The Karate Kid (1984)
-https://cha2.put.io/download/390087874?tunnel=1&storage=s12&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlhV1SgmqhbmZ9nXWVVVl%2BJmaNhYV5VYFRXaFljY2JoXFZhXVpmV2xdY2VbjJmJ
-#EXTINF:0,The 5th Wave 2016
-https://cha2.put.io/download/391676335.mp4?tunnel=1&pcache=1&token=18f6bce4b86911e5ade90a51cd8fa0d3&storage=s10&u=mJmonWpfXJlhVVSgmqhbmZ9nXWVVVl%2BJmaNhYl9VYFRYZVljYGdkXFZiWlpjXGhkaGNbjJmJ
-#EXTINF:0,The Big Short 2015
-https://cha3.put.io/download/389760770?tunnel=1&storage=s14&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlhWVSgmqhbmZ9nXWVVVl%2BJmaNiYGBVYFRYZVZjXmFnXFZiWldhVmtdaGFbjJmJ
-#EXTINF:0,Victor Frankenstein 2015
-https://cha3.put.io/download/389761467?tunnel=1&storage=s02&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgV1SgmqhbmZ9nXWVVVl%2BJmaNhYmNVYFRYZVVjXWloXFZiWlZgXmxlY2VbjJmJ
-#EXTINF:0,Van Helsing 2004
-https://cha3.put.io/download/392626409?tunnel=1&storage=s08&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgXVSgmqhbmZ9nXWVVVl%2BJmaNhYWNVYFRYYF1jYGNjXFZiVV5jWGdeZGBbjJmJ
-#EXTINF:0,My All American 2015
-https://cha3.put.io/download/385420630?tunnel=1&storage=s08&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgXVSgmqhbmZ9nXWVVVl%2BJmaNhYWNVYFRYZFtjY2FiXFZiWVxmVmZkaGhbjJmJ
-#EXTINF:0,In The Heart of the Sea
-https://cha3.put.io/download/389762060?tunnel=1&storage=s13&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlhWFSgmqhbmZ9nXWVVVl%2BJmaNhYmFVYFRYZF5jYWBmXFZiWV9kVWpdYGRbjJmJ
-#EXTINF:0,IP Man 3
-https://cha2.put.io/download/389845586.mp4?tunnel=1&storage=s01&token=18f6bce4b86911e5ade90a51cd8fa0d3&u=mJmonWpfXJlgVlSgmqhbmZ9nXWVVVl%2BJmaNiYF5VYFRYZVdjZmdpXFZiWlhpXG1kZGlbjJmJ
-#EXTINF:0,Kung Fu Panda 3 
-https://cha2.put.io/download/389761883.mp4?tunnel=1&pcache=1&token=18f6bce4b86911e5ade90a51cd8fa0d3&storage=s06&u=mJmonWpfXJlgW1SgmqhbmZ9nXWVVVl%2BJmaNhYGZVYFRYZVVjX2FhXFZiWlZiVmVhaWVbjJmJ
+#EXTINF:0, [COLOR red] ESTA LISTA SERA ACTUALIZADA POR SEMANA [/COLOR] 
+#EXTINF:1, 
+#EXTINF:0, [COLOR lime]*[/COLOR] 
+#EXTINF:1, 
 #EXTINF:0,
+#EXTINF:1, Dirty Grandpa 2016
+https://api.put.io/v2/files/399785112/stream?oauth_token=JWZBRX8H
+#EXTINF:0,
+#EXTINF:1, 
+#EXTINF:0,
+#EXTINF:1, 
+#EXTINF:0,
+#EXTINF:1, 
+#EXTINF:0,
+#EXTINF:1, 
+#EXTINF:0,
+#EXTINF:1, 
+#EXTINF:0,
+
