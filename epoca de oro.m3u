@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0, [COLOR lime] CANALES DE TELEVISION [/COLOR]
+
 #EXTINF:0, TNT (HD)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
 
