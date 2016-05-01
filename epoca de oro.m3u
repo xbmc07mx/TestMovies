@@ -3,6 +3,16 @@
 #EXTINF:1, [COLOR lime] CANALES DE TELEVISION [/COLOR]
 #EXTINF:0,
 
+#EXTINF:0, HBO LATINO
+http://31.220.40.100:80/LiveEdge/HBOLASD/chunklist_w1273568_b1000000.m3u8?securehash=DFbt5Ja5XyDxHXUmjzvJ0hBtoP7Upv_P-K0-klQQ728%3D&securestarttime=1462136877&secureendtime=1462144077&secureuserid=2f942741aca7fb89fea880ebe1acb1a9
+
+#EXTINF:0, HBO 2 LATINO
+http://31.220.40.117:80/LiveEdge/HBO2SD/chunklist_w2097203001_b1000000.m3u8?securehash=rXbOO86MPLvIXvuW9QZjYNQiYnhKHtO0gNZglUQW3iw%3D&securestarttime=1462136914&secureendtime=1462144114&secureuserid=2f942741aca7fb89fea880ebe1acb1a9
+
+#EXTINF:O, HBO PLUS LATINO
+http://31.220.40.117:80/LiveEdge/HBOPlusLASD/chunklist_w108746642_b1000000.m3u8?securehash=d7uVALbb6Z0F5XBgD1pf-WNMNwqiLZ9WAl7ZGlIjZvQ%3D&securestarttime=1462136947&secureendtime=1462144147&secureuserid=2f942741aca7fb89fea880ebe1acb1a9
+
+
 #EXTINF:0, TNT (HD)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
 
