@@ -9,6 +9,9 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE03.m3u8
 #EXTINF:0, DE PELICULA (HD)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL442/PROFILE03.m3u8
 
+#EXTINF:1, [COLOR lime] PELICULAS [/COLOR]
+#EXTINF:0,
+
 #EXTINF:0, NO BASTA SER CHARRO
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=v2uXfZX1Wi0&nohtml5=False
 
