@@ -121,5 +121,5 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8SXBlv
 plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=6Ejga4kJUts&list
 
 #EXTINF:0, VEVO 90'S PLAYLIST 2
-plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=PLQw-AwSCH8G3Dhw4vAu0R7OfxDWdUbhaR
+plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=YlUKcNNmywk
 
