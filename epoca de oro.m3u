@@ -120,7 +120,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8SXBlv
 #EXTINF:0, 
 plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=6Ejga4kJUts&list
 
-#EXTINF:0, 
+#EXTINF:0, VEVO 90'S PLAYLIST
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
 
 
