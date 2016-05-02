@@ -118,7 +118,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=_vCdFm
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=8SXBlvxXNu4
 
 #EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+plugin://plugin.video.youtube/?path=/root/video&action=play_all&playlist=6Ejga4kJUts&list
 
 #EXTINF:0, 
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
