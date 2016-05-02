@@ -3,6 +3,27 @@
 #EXTINF:1, [COLOR lime] CANALES DE TELEVISION [/COLOR]
 #EXTINF:0,
 
+#EXTINF:0, CANAL 2 (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
+
+#EXTINF:0, CANAL 5 (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
+
+#EXTINF:0, CINEMAX
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8
+
+#EXTINF:0, GALA TV (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL109/PROFILE03.m3u8
+
+#EXTINF:0, INVESTIGATION DISCOVERY 
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL263/PROFILE03.m3u8
+
+#EXTINF:0, SONY (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8
+
+#EXTINF:0, THE FILM CHANNEL (HD)
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL440/PROFILE03.m3u8
+
 #EXTINF:0, UNICABLE (HD)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL218/PROFILE03.m3u8
 
