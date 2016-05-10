@@ -6,8 +6,7 @@
 
 #EXTINF:2, [COLOR lime] Canales   Español [/COLOR] 
 
-#EXTINF:0, ESTRENOS ++
-http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/playlist.m3u8|Referer=http://tv.verdirectotv.org/embed.php?c=105242&width=650&height=400&autostart=true&tk1=8WjKnVVDwpiEtI226XxnLbak0evfpy6oLRonwBqmATes4dY6vibUgfkS%2FJ03ZQic7dy3ovbC4NL%2B%2FiPm523mrg%3D%3D&tk2=9VCRgevvsOE7FpkqYV6QGGuJfHwgXo51TC2cVSW%2BTMQ%3D&tk3=pCOi7IK8tDni6IkdNb5OLKPnCXKQAlPnN1CMasZY52k%3D
+
 #EXTINF:0, Comedy Central (HD)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
 #EXTINF:0, CANAL 2 (HD)
