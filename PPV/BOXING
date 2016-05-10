@@ -14,9 +14,11 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 
 #EXTINF:3, [COLOR lime] Canales Ingles [/COLOR] 
 
-#EXTINF:0, 
+#EXTINF:0,
+
 #EXTINF:O, BT SPORTS 1 
 http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+
 #EXTINF:O, BT SPORTS 2
 http://185.59.222.65:8080/MHAJbmmhhjPIAmbt2/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
 #EXTINF:0, 
