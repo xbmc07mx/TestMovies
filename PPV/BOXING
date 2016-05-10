@@ -15,6 +15,13 @@ http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
 #EXTINF:O, FOX SPORTS 1 (HD)
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:0, BEIN SPORTS Ñ
+http://stream.ssh101.com:1935/live/deporteshd1/chunklist.m3u8?sd=10
+#EXTINF:0, SPACE
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
+#EXTINF:0, EWTN 
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+
 
 
 #EXTINF:0,
