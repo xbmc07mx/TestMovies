@@ -2,11 +2,6 @@
 
 #EXTINF:1, [COLOR skyblue] PELICULAS SOLO DE CANTINFLAS [/COLOR]
 #EXTINF:0, 
-#EXTINF:0,
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-#EXTINF:0, 
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
-
 #EXTINF:0, Cantinflas vs Pedro Infante
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ke4i4hqCMe8
 #EXTINF:0, MARIO MORENO "CANTINFLAS" (1992) SU ULTIMA ENTREVISTA POR TELEVISION
@@ -47,3 +42,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=ME_78v
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=4EuKqcrpA3w
 #EXTINF:0, Aguila o Sol
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=VAKdJaR8Mds
+#EXTINF:0,
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
+#EXTINF:0, 
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=
