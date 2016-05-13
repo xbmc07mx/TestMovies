@@ -22,8 +22,7 @@ http://stream.ssh101.com:1935/live/deporteshd1/chunklist.m3u8?sd=10
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
 #EXTINF:0, EWTN 
 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
-#EXTINF:0, FOX SPORTS (SD)
-pvr://channels/tv/All channels/pvr.iptvsimple_457547159.pvr
+
 
 
 #EXTINF:0,
