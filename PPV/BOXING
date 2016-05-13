@@ -36,6 +36,9 @@ http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8|User-Agent=Mozilla/5.0 (L
 #EXTINF:O, BT SPORTS 2
 http://185.59.222.65:8080/MHAJbmmhhjPIAmbt2/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
 
+#EXTINF:0, BT SPORTS EUROPE
+http://185.59.222.65:8080/MHAJbmmhhjPIAmsky5/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+
 #EXTINF:0, FOX SPORTS 1 (HD)
 http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
 
