@@ -5,23 +5,9 @@
 #EXTINF:0,
 
 
-#EXTINF:2, [COLOR lime] Canales   Español [/COLOR] 
+#EXTINF:2, [COLOR lime] PELICULAS   Español [/COLOR] 
 
 
-#EXTINF:0, Comedy Central (HD)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL217/PROFILE03.m3u8
-#EXTINF:0, CANAL 2 (HD)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL102/PROFILE03.m3u8
-#EXTINF:0, CANAL 5 (HD)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL105/PROFILE03.m3u8
-#EXTINF:O, FOX SPORTS 1 (HD)
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
-#EXTINF:0, BEIN SPORTS Ñ
-http://stream.ssh101.com:1935/live/deporteshd1/chunklist.m3u8?sd=10
-#EXTINF:0, SPACE
-http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
-#EXTINF:0, EWTN 
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
 #EXTINF:0, THE BOY 2016 (ESP)
 https://archive.org/download/TheBoy2016_201606/The%20Boy%202016.mp4
 
@@ -30,36 +16,6 @@ https://archive.org/download/TheBoy2016_201606/The%20Boy%202016.mp4
 #EXTINF:0,
 #EXTINF:0,
 
-#EXTINF:4, [COLOR lime] Canales    Ingles [/COLOR] 
-
-#EXTINF:0, GOLF (HD)
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
-
-#EXTINF:O, BT SPORTS 1 
-http://185.59.222.65:8080/MHAJbmmhhjPIAmbt1/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
-
-#EXTINF:O, BT SPORTS 2
-http://185.59.222.65:8080/MHAJbmmhhjPIAmbt2/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
-
-#EXTINF:0, BT SPORTS EUROPE
-http://185.59.222.65:8080/MHAJbmmhhjPIAmsky5/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
-
-#EXTINF:0, FOX SPORTS 1 (HD)
-http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/master.m3u8
-
-#EXTINF:0, WGN (EN)
-pvr://channels/tv/All channels/pvr.iptvsimple_837575689.pvr
-
-#EXTINF:0, SKY SPORTS 1
-http://185.59.222.65:8080/MHAJbmmhhjPIAmsky1/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
-
-#EXTINF:0, SKY SPORTS 2
-http://185.59.222.65:8080/MHAJbmmhhjPIAmsky2/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
-
-#EXTINF:0, SKY SPORTS 4
-http://185.59.222.65:8080/MHAJbmmhhjPIAmsky2/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
-
-#EXTINF:0, SKY SPORTS 5
-http://185.59.222.65:8080/MHAJbmmhhjPIAmsky5/index.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 5.1.1; en-GB; SM-G920F Build/LMY47X.G920FXXS3COK5) MXPlayer/1.7.40
+#EXTINF:4, [COLOR lime] PELICULAS   INGLES [/COLOR] 
 
 
