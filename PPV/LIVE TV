@@ -22,6 +22,8 @@ http://stream.ssh101.com:1935/live/deporteshd1/chunklist.m3u8?sd=10
 http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8
 #EXTINF:0, EWTN 
 http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+#EXTINF:0, THE BOY 2016 (ESP)
+https://archive.org/download/TheBoy2016_201606/The%20Boy%202016.mp4
 
 
 
