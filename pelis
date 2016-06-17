@@ -9,6 +9,14 @@
 #EXTINF:4, [COLOR yellow] kodi07mx@gmail.com [/COLOR]
 #EXTINF:0,
 
+
+#EXTINF:5, [COLOR light blue] KIDS SECTION [/COLOR]
+
+#EXTINF:0, 5 LITTLE MONKEYS JUMPING ON THE BED
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HJPYDUUOWo8
+#EXTINF:0,
+
+
 #EXTINF:2, [COLOR lime]*****[/COLOR] [COLOR red] kodi Laredo [/COLOR] [COLOR lime]*****[/COLOR]
 #EXTINF:0,
 
