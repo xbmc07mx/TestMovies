@@ -10,7 +10,7 @@
 #EXTINF:0,
 
 
-#EXTINF:5, [COLOR lightblue] KIDS SECTION [/COLOR]
+#EXTINF:5, [COLOR lime]*****[/COLOR] [COLOR lightblue] KIDS SECTION [/COLOR] [COLOR lime]*****[/COLOR]
 
 #EXTINF:0, 5 LITTLE MONKEYS JUMPING ON THE BED
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HJPYDUUOWo8
