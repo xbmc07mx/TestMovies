@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0, PIMPINELA
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sNY7AiSjJJM
+
 #EXTINF:0, Hozier - TAKE ME TO CHURCH 
 https://archive.org/download/Hozier/Hozier-TakeMeToChurch.ogg
 
