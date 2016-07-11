@@ -9,7 +9,7 @@ http://31.220.40.105:80/LiveEdge/btsport2.stream/chunklist_w813147036_b1000000.m
 #EXTINF:2, [COLOR lime] PELICULAS   Español [/COLOR] 
 
 #EXTINF:0, Pimpinela - A Esa
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=sNY7AiSjJJM
+https://youtu.be/sNY7AiSjJJM
 #EXTINF:0, THE BOY 2016 (ESP)
 https://archive.org/download/TheBoy2016_201606/The%20Boy%202016.mp4
 #EXTINF:0, LA LEYENDA DE LA LLORONA (CARICATURA)
