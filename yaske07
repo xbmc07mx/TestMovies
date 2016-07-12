@@ -36,9 +36,9 @@ http://www66.uptobox.com/d/4my6qqp6eor76xkq4pmzua3eo5luq7fdvhlvrulfcugakpuwae7vy
 
 #EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/ThreeStepsAboveHeave2010Poster.jpg", 3 METROS SOBRE EL CIELO
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4585&authkey=!AEijHDl0ti5uECA&ithint=video%2cmp4
-#EXTINF:0, Anabelle 720
+EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9b/Annabelle-poster.jpg", Annabelle 
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4613&authkey=!AJTCWorrwgEEJI4&ithint=video%2cmp4
-#EXTINF:0, BAMBI HD 1942
+EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Walt_Disney%27s_Bambi_poster.jpg", Bambi 1942
 http://www.spruto.tv/get_file/5/b9c1d82b3ddf922acadd5992a71b31d7/146000/146855/146855.mp4
 
 
