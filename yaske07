@@ -26,8 +26,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HP-Mbf
 
 EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="url", 
 
-#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://revistatoma.files.wordpress.com/2014/06/bm_spanish_online_1sht1.jpg", Birdman
-https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!128&authkey=!AAwSV_Y3StoXnJo&ithint=file%2cmp4
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Batman_v_Superman_poster.jpg", Batman vs Superman (Latino)
+http://www62.uptobox.com/d/t4yzshpseor76xkqjlmzkgjgoanfbxezsvaqufu44rm3fug5ox6sapyqvyadj7joq56ffsmt324tgurjgu/Batman.v.Superman.Dawn.of.Justice.2016.THEATRICAL.LATiNO.avi
 
 #EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Me_Before_You_(film).jpg", Me Before You
 http://www66.uptobox.com/d/4my6qqp6eor76xkq4pmzua3eo5luq7fdvhlvrulfcugakpuwae7vycezcfcwkzgwahmkbrpdtuo5i25xei/Me.Before.You.2016.1080p.HDRip-Fixed.mp4
