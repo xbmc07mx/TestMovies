@@ -41,60 +41,61 @@ https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4613&authkey=!AJT
 #EXTINF:0 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Walt_Disney%27s_Bambi_poster.jpg", Bambi 1942
 http://www.spruto.tv/get_file/5/b9c1d82b3ddf922acadd5992a71b31d7/146000/146855/146855.mp4
 
-
-
-#EXTINF:0, 10 Years Later
-https://lh3.googleusercontent.com/d8HMzuKMyuV1wyX-DDL-8Eo0vR3SJI5Bu_E-xFdTbQ=m22
-#EXTINF:0, Batman 1989
-https://lh3.googleusercontent.com/PezQPpC2gbq7qakUOvpDHUFqgY2hCfQvkEKB_O6d0w=m37
-#EXTINF:0, Harry Potter y la Piedra filosofa
-https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1976&authkey=!ABDUkwmbuclr7Jo&ithint=file%2cmkv
-#EXTINF:0, Harry Potter y La Camara Secreta
-https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1978&authkey=!ADR6k6hZXUmdv5c&ithint=file%2cmkv
-#EXTINF:0, Harry Potter y el Prisionero de Askaban
-https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1977&authkey=!AOUmH8ZuaKRxoUk&ithint=file%2cmkv
-#EXTINF:0, Harry Potter y el Caliz de Fuego
-https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1979&authkey=!ALTYdKCc0pPBWUY&ithint=file%2cmkv
-#EXTINF:0, Harry Potter y la Orden del Fenix
-https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1980&authkey=!ABWlHtp4IBz2BFI&ithint=file%2cmkv
-#EXTINF:0, Harry Potter y el Misterio del Principe
-https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1981&authkey=!AAjRSzhpc86gED4&ithint=file%2cmkv
-#EXTINF:0, Harry Potter y las Reliquias de la Muerte Parte 1
-https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1984&authkey=!AJkUEnMfsc5vsFo&ithint=file%2cmkv
-#EXTINF:0, Harry Potter y las Reliquias de la Muerte Parte 2
-https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1983&authkey=!AGy-bOC1w1kT6w4&ithint=file%2cmkv
-#EXTINF:0, Malefica
+#EXTINF:0 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/55/Maleficent_poster.jpg", Maleficient (Latino)
 https://lh3.googleusercontent.com/RqzGWOiytyPIIvBTFbLRrRqDAA7DTxnGZPRDfUupPw=m37
-#EXTINF:0, Man of Steel
+
+
+EXTINF:0, 10 Years Later
+https://lh3.googleusercontent.com/d8HMzuKMyuV1wyX-DDL-8Eo0vR3SJI5Bu_E-xFdTbQ=m22
+EXTINF:0, Batman 1989
+https://lh3.googleusercontent.com/PezQPpC2gbq7qakUOvpDHUFqgY2hCfQvkEKB_O6d0w=m37
+EXTINF:0, Harry Potter y la Piedra filosofa
+https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1976&authkey=!ABDUkwmbuclr7Jo&ithint=file%2cmkv
+EXTINF:0, Harry Potter y La Camara Secreta
+https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1978&authkey=!ADR6k6hZXUmdv5c&ithint=file%2cmkv
+EXTINF:0, Harry Potter y el Prisionero de Askaban
+https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1977&authkey=!AOUmH8ZuaKRxoUk&ithint=file%2cmkv
+EXTINF:0, Harry Potter y el Caliz de Fuego
+https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1979&authkey=!ALTYdKCc0pPBWUY&ithint=file%2cmkv
+EXTINF:0, Harry Potter y la Orden del Fenix
+https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1980&authkey=!ABWlHtp4IBz2BFI&ithint=file%2cmkv
+EXTINF:0, Harry Potter y el Misterio del Principe
+https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1981&authkey=!AAjRSzhpc86gED4&ithint=file%2cmkv
+EXTINF:0, Harry Potter y las Reliquias de la Muerte Parte 1
+https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1984&authkey=!AJkUEnMfsc5vsFo&ithint=file%2cmkv
+EXTINF:0, Harry Potter y las Reliquias de la Muerte Parte 2
+https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1983&authkey=!AGy-bOC1w1kT6w4&ithint=file%2cmkv
+
+EXTINF:0, Man of Steel
 https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1917&authkey=!AIHXTjPOAo0mUZ8&ithint=file%2cmkv
-#EXTINF:0, Pinguins of Madagascar
+EXTINF:0, Pinguins of Madagascar
 https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1909&authkey=!AIhLsM0-Jkxz3sI&ithint=file%2cmkv
-#EXTINF:0, Fast and the Furios 7 
+EXTINF:0, Fast and the Furios 7 
 https://onedrive.live.com/download.aspx?resid=36AE3E5328B4B99F!1888&authkey=!AMGzVrqj8AsZyeI&ithint=file%2cmkv
-#EXTINF:0, Starwars 1
+EXTINF:0, Starwars 1
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4666&authkey=!AJ-aJJX-k9WNFxo&ithint=file%2cmkv
-#EXTINF:0, Starwars 2
+EXTINF:0, Starwars 2
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4667&authkey=!ALf6DhiSfvjLUzA&ithint=file%2cmkv
-#EXTINF:0, Starwars 3
+EXTINF:0, Starwars 3
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4668&authkey=!AF8ynjCK-hl_ByU&ithint=file%2cmkv
-#EXTINF:0, Starwars 4
+EXTINF:0, Starwars 4
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4669&authkey=!AFq4MU6Yb0fbaPI&ithint=file%2cmkv
-#EXTINF:0, Starwars 5
+EXTINF:0, Starwars 5
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4670&authkey=!AITNt0kkHC_ugPQ&ithint=file%2cmkv
-#EXTINF:0, Starwars 6
+EXTINF:0, Starwars 6
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4671&authkey=!AMoeT5WTJ_kM6sw&ithint=file%2cmkv
-#EXTINF:0, PALMERAS EN LA NIEVE
+EXTINF:0, PALMERAS EN LA NIEVE
 http://oqbkij.oloadcdn.net/dl/l/IvirkKwuHQE/webAkeGEE6I/Palmeras_En_La_Nieve_2015_Castellano_BDrip_X264.mkv.mp4|User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:22.0) Gecko/20100101 Firefox/22.0|.mp4
-#EXTINF:0, LA QUINTA OLA (THE 5TH WAVE)
+EXTINF:0, LA QUINTA OLA (THE 5TH WAVE)
 https://17wy0rh.oloadcdn.net/dl/l/QNABSO8rcB4/59bXF04cF9g/La+5ta+ola+(2015)+-+Latino+720p.avi.mp4?mime=true
-#EXTINF:0, EL HUTNSMAN WINTERS WAR (THE HUNTSMAN WINTERS WAR)
+EXTINF:0, EL HUTNSMAN WINTERS WAR (THE HUNTSMAN WINTERS WAR)
 https://15zfn38.oloadcdn.net/dl/l/YNGQpbfSQck/kPoHqb9rd84/The+Huntsman+Winter's+War+(2016)+-+Latino+HDRip.mp4?mime=true
-#EXTINF:0, The Boy (2016)
+EXTINF:0, The Boy (2016)
 http://151.80.23.179:8777/hyohon3boaikkfn2mbc72zqvmzgooxezpxnyc6vp5zyn6sbhpvuppicb6e/v.mp4
-#EXTINF:0, BUSCO NOVIO PARA MI MUJER
+EXTINF:0, BUSCO NOVIO PARA MI MUJER
 https://d6.usercdn.com/d/x4lyny5stz2fvxij3xyjvg2yayctzsgnnbb7ba5ugczukq4efknmwj5a/video.mp4
-#EXTINF:0, Buenos Vecinos 2016
+EXTINF:0, Buenos Vecinos 2016
 https://openload.co/embed/StsddrZtBVc/Buenos_Vecinos_2_%282016%29_-_Latino-Line_WEBRip_HC.avi.mp4
-#EXTINF:0, Everybody Wants Some
+EXTINF:0, Everybody Wants Some
 https://put.io/v2/files/413621065/download?token=1e8864be01ed11e69af20a7a5ca7a85d
-#EXTINF:0,
+EXTINF:0,
