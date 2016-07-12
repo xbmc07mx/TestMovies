@@ -23,7 +23,8 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HP-Mbf
 #EXTINF:2, [COLOR lime]*****[/COLOR] [COLOR red] kodi Laredo [/COLOR] [COLOR lime]*****[/COLOR]
 #EXTINF:0,
 
-
+#EXTINF:0, My Big Fat Greek Wedding 2 (latino)
+http://www.spruto.tv/get_file/6/f06c8e86918fc18ce453aae845575af0/193000/193117/193117.mp4
 #EXTINF:0, Finding Dory
 http://sti7.spruto.tv/remote_control.php?time=1468310886&cv=cd992780a8ac9bb89e6558157bb4f172&lr=0&cv2=4ac86e23fa9d4d04394e6e87121266ab&file=%2Fvideos%2F205000%2F205524%2F205524.mp4
 #EXTINF:0, LONDON HAS FALLEN (2016)
