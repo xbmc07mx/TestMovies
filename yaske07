@@ -23,7 +23,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HP-Mbf
 #EXTINF:2, [COLOR lime]*****[/COLOR] [COLOR red] kodi Laredo [/COLOR] [COLOR lime]*****[/COLOR]
 #EXTINF:0,
 
-EXTINF:-1, group-title="PELICULAS ONLINE" tvg-logo="http://www.cosmicbooknews.com/sites/default/files/imagecache/673/wysiwyg_imageupload/1/marvel-avengers-rdj.jpg",Avenger 2 Subtitulada
+#EXTINF:0, group-title="PELICULAS ONLINE" tvg-logo="http://www.cosmicbooknews.com/sites/default/files/imagecache/673/wysiwyg_imageupload/1/marvel-avengers-rdj.jpg",Avenger 2 Subtitulada
 https://onedrive.live.com/download.aspx?resid=2d87c828c0424db3!1143&authkey=!AMboOQkcc6UMhIM&ithint=file%2cmkv
 #EXTINF:0, My Big Fat Greek Wedding 2 (latino)
 http://www.spruto.tv/get_file/6/f06c8e86918fc18ce453aae845575af0/193000/193117/193117.mp4
