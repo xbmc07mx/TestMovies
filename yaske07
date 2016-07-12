@@ -28,12 +28,8 @@ EXTINF:-1 group-title="PELICULAS ONLINE" tv-logo="url",
 
 #EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://revistatoma.files.wordpress.com/2014/06/bm_spanish_online_1sht1.jpg", Birdman
 https://onedrive.live.com/download.aspx?resid=A1ED6927EF2F0D98!128&authkey=!AAwSV_Y3StoXnJo&ithint=file%2cmp4
-#EXTINF:-1 group-title="PELICULAS ONLINE" tv-logo="https://2tax3i7eqir13il3d49l65b3-wpengine.netdna-ssl.com/wp-content/uploads/2016/03/big-fat-greek-wedding-2-slider.jpg", My Big Fat Greek Wedding 2 (latino)
-http://st25.spruto.tv/remote_control.php?time=1468359927&cv=9f2caf39312f4d0e858154136340f9cf&lr=0&cv2=d6eca418c372e46c9b110cb1e60412eb&file=%2Fvideos%2F193000%2F193117%2F193117.mp4
-#EXTINF:0, Finding Dory
-http://sti7.spruto.tv/remote_control.php?time=1468310886&cv=cd992780a8ac9bb89e6558157bb4f172&lr=0&cv2=4ac86e23fa9d4d04394e6e87121266ab&file=%2Fvideos%2F205000%2F205524%2F205524.mp4
-#EXTINF:0, LONDON HAS FALLEN (2016)
-https://oql95l.oloadcdn.net/dl/l/oiR5SBW1QZw/l0WohaP2daQ/Objetivo+Londres+(2016)+-+Latino-Line+HDRip+HC.avi.mp4?mime=true
+#EXTINF:-1 group-title=PELICULAS ONLINE" tv-logo="http://www.impawards.com/2016/posters/me_before_you.jpg", Me Before You
+http://www66.uptobox.com/d/4my6qqp6eor76xkq4pmzua3eo5luq7fdvhlvrulfcugakpuwae7vycezcfcwkzgwahmkbrpdtuo5i25xei/Me.Before.You.2016.1080p.HDRip-Fixed.mp4
 #EXTINF:0, DAEADPOOL HD (2016)
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!6362&authkey=!AEB2GDTSm7tJHlc&ithint=video%2cmp4
 #EXTINF:0, MY BIG FAT GREEK WEDDING 2 2016
@@ -44,6 +40,9 @@ https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4585&authkey=!AEi
 https://onedrive.live.com/download.aspx?resid=309AEFC9B8832747!4613&authkey=!AJTCWorrwgEEJI4&ithint=video%2cmp4
 #EXTINF:0, BAMBI HD 1942
 http://www.spruto.tv/get_file/5/b9c1d82b3ddf922acadd5992a71b31d7/146000/146855/146855.mp4
+
+
+
 #EXTINF:0, 10 Years Later
 https://lh3.googleusercontent.com/d8HMzuKMyuV1wyX-DDL-8Eo0vR3SJI5Bu_E-xFdTbQ=m22
 #EXTINF:0, Batman 1989
