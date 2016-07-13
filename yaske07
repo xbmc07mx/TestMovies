@@ -26,6 +26,12 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HP-Mbf
 
 EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="url", 
 
+
+
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://www.cinematerial.com/media/posters/md/ui/ui7hftsk.jpg?v=1461263859", Nice Guys
+https://redirector.googlevideo.com/videoplayback?requiressl=yes&id=bdfe037fe80575b7&itag=22&source=webdrive&ttl=transient&app=texmex&ip=2604:a880:800:a1::201:8001&ipbits=32&expire=1468463021&sparams=requiressl%2Cid%2Citag%2Csource%2Cttl%2Cip%2Cipbits%2Cexpire&signature=12F572BCD5EAF810560B3B163A160D0F6CA43713.933DC3441A1237E8535C8B4602333B0A4E406EC6&key=ck2&mm=30&mn=sn-ab5l6ne7&ms=nxu&mt=1468448398&mv=m&nh=IgpwcjAzLmxnYTA3KgkxMjcuMC4wLjE&pl=48&title=videoplayback
+
+
 #EXTINF:0 group-title="PELICULAS ONLINE" tvg-logo="https://cdn-az.allevents.in/banners/ae70b7950460d870a1795d132f38bf53", Busco Novio Para mi Mujer
 https://d6.usercdn.com/d/x4lyny5stzkxjqij3xyjvg2ya2u7zmdvm44tuogyjnylt3eyyjqyzjo6/video.mp4
 
