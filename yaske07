@@ -20,7 +20,7 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HJPYDU
 #EXTINF:0 group-title="PELICULAS ONLINE" tvg-logo="http://marcotitolambo.com/wp-content/uploads/2015/02/497338947_640.jpg", WHEELS ON THE BUS GO
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HP-MbfHFUqs
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #EXTINF:2, [COLOR lime]*****[/COLOR] [COLOR red] kodi Laredo [/COLOR] [COLOR lime]*****[/COLOR]
 #EXTINF:0,
@@ -28,6 +28,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HP-Mbf
 
 EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="url", 
 
+
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="http://es.web.img3.acsta.net/newsv7/15/06/18/10/26/232829.jpg", Embarazados (Esp)
+https://2bf6ig.bl3302.livefilestore.com/y3mG83_g0GiQbvwdl-rISLFPPtJ9WCLqef0biwtmW-mGM8FjNjH7CLCHyQ1Ty1F9n3fPWxtE6TB2zy2Bilj-z0p0rHZqn8kiKuhIg_WkDZd01Dz_OPW3Cq5S65dQ1w4z_JgIGqfE5KRvoWKy6c6tUwwzw/Embarazados.mp4?psid=1?
 
 
 #EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/Mothers_and_Daughters_%282016_film%29.jpg", Mothers and Daughters (English)
