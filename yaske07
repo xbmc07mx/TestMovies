@@ -11,6 +11,7 @@
 #EXTINF:0,
 
 
+
 #EXTINF:5, [COLOR lime]*****[/COLOR] [COLOR lightblue] KIDS SECTION [/COLOR] [COLOR lime]*****[/COLOR]
 
 #EXTINF:0 group-title="PELICULAS ONLINE" tvg-logo="http://s1.dmcdn.net/HOI7_/1280x720-nQ9.png" , 5 LITTLE MONKEYS JUMPING ON THE BED
@@ -19,6 +20,9 @@ plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HJPYDU
 
 #EXTINF:0 group-title="PELICULAS ONLINE" tvg-logo="http://marcotitolambo.com/wp-content/uploads/2015/02/497338947_640.jpg", WHEELS ON THE BUS GO
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HP-MbfHFUqs
+
+#EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3e/Finding_Dory.jpg", Finding Dory (2016)
+https://onedrive.live.com/?authkey=%21AAiHWXI0cU87Wdw&id=9B22585591F3D21A%21107&cid=9B22585591F3D21A
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
