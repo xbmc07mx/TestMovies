@@ -4,7 +4,9 @@
 #EXTINF:1, [COLOR skyblue] KIDS SECTION [/COLOR] [COLOR limegreen] JUNE, 2016 [/COLOR]
 #EXTINF:0,
 
-#EXTINF:0, 5 LITTLE MONKEYS JUMPING ON THE BED
+#EXTINF:0 group-title="PELICULAS ONLINE" tvg-logo="http://s1.dmcdn.net/HOI7_/1280x720-nQ9.png" , 5 LITTLE MONKEYS JUMPING ON THE BED
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HJPYDUUOWo8
-#EXTINF:0, WHEELS ON THE BUS GO
+
+
+#EXTINF:0 group-title="PELICULAS ONLINE" tvg-logo="http://marcotitolambo.com/wp-content/uploads/2015/02/497338947_640.jpg", WHEELS ON THE BUS GO
 plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=HP-MbfHFUqs
