@@ -36,6 +36,14 @@ http://31.220.41.114:80/vodcached/_definst_/mp4:origin2/La.decision.(HDRip).(ipt
 
 
 
+#EXTINF:0, THE CHOICE
+http://31.220.41.115:80/vodcached/_definst_/mp4:origin2/La.decision.(HDRip).(iptvtalk.org).avi.mp4/chunklist_w1089535231.m3u8?securehash=nPLI4eBcrEbEuCc97q0n3neu1-Vj9U_wxefTzd_x-BA%3D&securestarttime=1469231908&secureendtime=1469249908&secureuserid=32d7c5926d0ba8198d45ea779576a8f8
+
+
+
+
+
+
 #EXTINF:-1 group-title="PELICULAS ONLINE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Hansel_and_Gretel_Witch_Hunters_.jpg", Hanse and Gretel
 plugin://plugin.video.userscloud/?path=/root/video&action=play_video&videoid=10exyi9kdm9g
 
